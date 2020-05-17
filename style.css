@@ -3,11 +3,11 @@
   padding: 0;
   box-sizing: border-box;
 }
-
 section {
   height: 100vh;
   background-color: rgb(39, 41, 68);
   font-family: sans-serif;
+  background-image: url(background.svg);
 }
 
 .score {
