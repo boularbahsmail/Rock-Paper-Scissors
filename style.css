@@ -26,7 +26,8 @@ section {
   font-size: 25px;
 }
 #start{
-  width: 250px;
+  width: 180px;
+  height: 60px;
 }
 h4{
   color: white;
